@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Any detailed explanations can be found [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
 ## Table of Contents
--[Header](#header)
+- [Header](#header)
 - [App info](#app-info)
 - [Usage](#usage)
 - [Tools](#tools)
