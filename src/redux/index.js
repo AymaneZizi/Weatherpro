@@ -1,6 +1,6 @@
 import { createStore, applyMiddleware } from 'redux';
 import createSagaMiddleware from 'redux-saga';
-import { composeWithDevTools } from './redux/redux-devtools-extension'; // eslint-disable-line import/no-extraneous-dependencies
+import { composeWithDevTools } from 'redux-devtools-extension'; // eslint-disable-line import/no-extraneous-dependencies
 import createHistory from 'history/createBrowserHistory';
 import { routerMiddleware } from 'react-router-redux';
 import thunk from 'redux-thunk';
