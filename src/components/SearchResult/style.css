@@ -1,0 +1,77 @@
+#container {
+  width: 70%;
+  text-align: center;
+}
+
+#left {
+  float: left;
+  width: 200px;
+  height: 0px;
+  background: #e96056;
+}
+
+.search-container {
+  background-color: white;
+  height: 100%;
+  width: 100%;
+  color: white;
+  box-shadow: 0px 0px 5px 5px #888888;
+}
+
+.backIcon {
+  background-color: white !important;
+}
+
+.switchLabel {
+  padding-top: 15px;
+}
+
+.ui.toggle.checkbox input~.box:after, .ui.toggle.checkbox input~label:after {
+  margin-top: 9px !important;
+}
+
+.ui.toggle.checkbox .box:before, .ui.toggle.checkbox label:before {
+  margin-top: 9px !important;
+}
+
+.containerLeft {
+  text-align: left;
+}
+
+.containerLeftTitle {
+  text-align: left;  
+  padding-top: 0px;
+}
+
+.lowerData {
+  text-align: center;
+}
+
+.goButton {
+ height: 40px;
+}
+
+.list {
+  width: 100%;
+  text-align: center;
+}
+
+.ownLocation {
+  border-bottom-color: "red";
+  border-bottom: 10px
+}
+
+#center {
+  display: inline-block;
+  margin: 0 auto;
+  width: 71%;
+  height: 100%;
+  background: #e96056;
+}
+
+#right {
+  float: right;
+  width: 200px;
+  height: 0px;
+  background: #e96056;
+}
