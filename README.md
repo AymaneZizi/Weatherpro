@@ -21,7 +21,8 @@ This application can be used to:
 
 ## Usage
 * clone the repo
-* install required modules with `npm install`
+* install required modules with `npm i -g npm@latest`
+* to install the required modules along with their versions use `npm install --legacy-peer-deps`
 * run the app with `npm start`
 
 ## Tools
